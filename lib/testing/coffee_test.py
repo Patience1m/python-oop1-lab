@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from lib.coffee import Coffee
 
 import io
